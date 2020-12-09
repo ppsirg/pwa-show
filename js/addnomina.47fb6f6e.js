@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["addnomina"],{"08b5":function(n,a,l){"use strict";l.r(a);var o,u,e=l("2877"),p={},s=Object(e["a"])(p,o,u,!1,null,null,null);a["default"]=s.exports}}]);
+//# sourceMappingURL=addnomina.47fb6f6e.js.map
